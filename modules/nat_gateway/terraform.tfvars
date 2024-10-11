@@ -1,0 +1,1 @@
+public_subnet_id= "subnet-0b9431a6387ed9875"  # Thay thế bằng Subnet ID của NAT Gatew

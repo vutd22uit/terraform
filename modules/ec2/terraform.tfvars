@@ -1,0 +1,6 @@
+ami = "ami-00f251754ac5da7f0"  
+instance_type    = "t2.micro"
+public_subnet_id = "subnet-0b9431a6387ed9875"
+vpc_cidr           = "10.0.0.0/16"
+public_subnet_cidr = "10.0.1.0/24"
+private_subnet_cidr = "10.0.2.0/24"
